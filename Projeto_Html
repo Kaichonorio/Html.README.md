@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cianorte</title>
+    <link rel="stylesheet" href="css1.css">
+</head>
+
+<div>
+    <header class="pastoral">
+ Pastoral da Juventude
+    </header>
+</div>
+
+
+<body>
+<H1 > ENCONTRO PARA CATEQUESE</H1>
+<img  src="pj.jpg" alt="pj" width="100" height="100">
+ <p class="jovem"> Jovens trabalham com catequistas da paróquia <strong>Santa Rita de Cassia</strong>,com objetivo de formar esses catequista para um bem comum na Igreja.</P><a href="https://pj.org.br/">pj.com.www</a>
+
+<h2 class="metodo">Metodologia <q>Ver,Julgar e Agir</q></h2>
+
+<p class="ver">
+    Ver: O ver é uma metodologia de trabalho que tem como principio, analisar o erro ou que está acontecendo ao nosso arredor ou seja <strong>avalia</strong>.<br>
+    Julga: O julgar tem como obejtivo pegar o <b>ver</b> que é (analisar o que está acontecer ao nosso arredor) e julga da melhor forma comno erro buscando a raiz do problema ou do erro.<br>
+    Agir: o agir tem como ojetivo pergar o <b>ver<b> e o <b>julgar</b> e colocar em ação ou seja colocar em pratica depois de ter chegar em uma conclusão.<br>
+    <a href="https://marista.org.br/noticia/ver-julgar-e-agir-um-convite-para-o-engajamento-na-campanha-da-fraternidade-2019/#:~:text=Voc%C3%AA%20conhece%20a%20metodologia%20Ver,a%20tem%C3%A1tica%20abordada%20na%20campanha.">ver,julgar e agir.www<br></a>
+</p>
+<h3 class="temas">Temas trabalhado: Ecologia Integral </h3>
+<p class="ecologia">
+    Ecologia Integral:A Ecologia Integral assume que a dignidade de cada pessoa apenas se expressa numa lógica de relação com as outras pessoas e com o mundo e <del>individual</del>. Relação essa que não é de domínio, imposição ou competição, mas que assenta antes numa ética do cuidado e na cooperação e reciprocidade.
+</p>
+   <h2 class="si">O que é o Laudato SI?</h2>
+   <img class="lau" src="laudato-si.jpg" alt="laudato" width="90" height="90">
+
+<p class="laudato"> Laudato si' é uma encíclica do <mark>Papa Francisco</mark>, na qual o pontífice critica o consumismo e o desenvolvimento irresponsável e faz um apelo à mudança e à unificação global para combater a degradação ambiental e as alterações climáticas.<br>
+    Data da primeira publicação: <mark>18 de junho de 2015.</mark>
+    <a href="https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html">Laudato_si.www</a>
+
+</p>
+    
+<h3 >Francisco sobre o Laudato SI. </h3>
+<img src="papa.jpg" alt="Francisco sobre o Laudato SI" width="100" height="100">
+  
+    <p class="papa">
+    Papa Francisco tem como ojetivo escrever essa carta, a ser enviados a todos da igreja (padre,bispo e cristões) e também atingir os povos no intuito de traser um projeto de ecologia integral e de cuidar da casa comum.<br>
+    </p>
+<p>Aqui está uma citação do Papa Francisco aos Povos</p>
+<blockquote>
+    <q>promovam a consciência da fragilidade radical de nossos contextos ambientais</q>.<br><q>há uma necessidade urgente de buscar, através do diálogo em todos os níveis, soluções integradas baseadas no respeito da fundamental interdependência entre a família humana e a natureza”</q>
+    <a href="https://www.youtube.com/watch?v=eUPCm32RSzQ">video_laudatoSI.<br></a>
+    
+</blockquote> 
+    </div>
+
+<div class="relativa"> 
+    
+    <p class="jesus">Jesus  <img class="je"    src="jesus.jpg" alt="jesus">  </p>   
+
+<div class="absoluta"> 
+    <p class="cristões"> Cristão  <img class="cris" src="cristão.jpg" alt="cristão"  >                 </p>                  </div>
+</div>
+
+
+
+</body> 
+</html>
